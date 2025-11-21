@@ -9,9 +9,9 @@ ML libraries.
 The repository includes:
 
 -   **Classification.py** → Logistic Regression + Gradient Descent +
-    Plotting\
+    Plotting
 -   **Multiple_Linear_Regression.py** → Multi-variable Linear
-    Regression\
+    Regression
 -   **Regularizatio_functions.py** → Linear & Logistic Regression with
     L2 Regularization
 
@@ -23,11 +23,11 @@ The repository includes:
 
 Implements **Binary Logistic Regression** from scratch:
 
--   Sigmoid function\
--   Logistic cost\
--   Gradient computation\
--   Gradient descent\
--   Decision boundary plotting\
+-   Sigmoid function
+-   Logistic cost
+-   Gradient computation
+-   Gradient descent
+-   Decision boundary plotting
 -   Manual prediction
 
 ------------------------------------------------------------------------
@@ -36,10 +36,10 @@ Implements **Binary Logistic Regression** from scratch:
 
 Implements **Multi-Feature Linear Regression**:
 
--   Manual & vectorised prediction\
--   MSE cost function\
--   Gradient calculation\
--   Batch gradient descent\
+-   Manual & vectorised prediction
+-   MSE cost function
+-   Gradient calculation
+-   Batch gradient descent
 -   Cost vs iteration plotting
 
 ------------------------------------------------------------------------
@@ -48,8 +48,8 @@ Implements **Multi-Feature Linear Regression**:
 
 Implements **Regularized Linear & Logistic Regression**:
 
--   L2 regularized cost functions\
--   Regularized gradients\
+-   L2 regularized cost functions
+-   Regularized gradients
 -   Ridge-style penalty
 
 ------------------------------------------------------------------------
@@ -85,8 +85,8 @@ python Regularizatio_functions.py
 
 ------------------------------------------------------------------------
 
-## 🛠️ Technologies Used
+## 🛠️ Libraries Used
 
--   Python 3.x\
--   NumPy\
+-   Python 3.x
+-   NumPy
 -   Matplotlib
